@@ -1,0 +1,4 @@
+#Thu Apr 25 11:39:21 IST 2019
+base.0=E\:\\lpu files\\3-2sem\\android\\TelanganaTourism\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3f0373512cdab4d0040038c17f24d007\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2590486ff4699d8fe4ff40542b871b43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b9493112e053aee12aa796053890a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2a63f7ba294ada55c489f31a0fdd7abb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\92f05810cd594bdb728a2c3e33509f0e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4fe83ced452519e63da5e081348be5ea\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\725ae23e9976c9c077a3323e609b59de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8eb57b9b0ee3db8b6639f0fddabc0df4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3044fd05c1694033b7b2aa625ec7ad22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c708bdaa1e8fdb18bdb93027481a210a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5edcc5ba9adc31cc4f3196f1015f29cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d82138bb01dca75cc8e8662ba6985964\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d341c05019014aab9eb6fcb74fcefd27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1136a182a0fa1e50d7b7f5cb2c38503d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\96aaddaf3b67f481c633714ef7453591\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6bade209cb1daa5a346966c626d2e38\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e613e8cef36bb2822f971fab4ac91d69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\394fb723c6baf2bf85fbbb4e92e118b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e17ce3049d9d4f020e9af40711473f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2f1ac91a25ed92259b94b62362282674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\000fd095b10045a9cdafcc4d153564dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\25efbec9d327be0f04f2c1c365a21f19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d0f38d8309c5a77741fa682f40fdf9c4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a2fe0bbdb6f9ea1e4e585b17c10002ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f58685a1f850fe41bb5c2a60025c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\43c3762317b800fcff0c58484f4a079f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a7043fa1ef53534d3d18698950871114\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2025914d31bb14c196f7ca0688e368ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd19b02cd690b0b5d8c195b719a3cde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bcbaadce8314bf7197635bb5eab93509\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5e7f32fdfab66f1b8f5ef7ecd7136a98\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\10d23539eb83b952b3ae8c84d8d9ed8c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f612befca75d3056a86f7e65f3a9263\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+	package
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:1-84:12
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:12:5-82:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3f0373512cdab4d0040038c17f24d007\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3f0373512cdab4d0040038c17f24d007\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\92f05810cd594bdb728a2c3e33509f0e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\92f05810cd594bdb728a2c3e33509f0e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4fe83ced452519e63da5e081348be5ea\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4fe83ced452519e63da5e081348be5ea\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d0f38d8309c5a77741fa682f40fdf9c4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d0f38d8309c5a77741fa682f40fdf9c4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.androiduptodate.telanganatourism.MainActivity
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:theme
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.androiduptodate.telanganatourism.home1
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:28:9-30:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:29:13-34
+activity#com.androiduptodate.telanganatourism.home2
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:31:9-33:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:33:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:32:13-34
+activity#com.androiduptodate.telanganatourism.home3
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:34:9-36:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:36:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:35:13-34
+activity#com.androiduptodate.telanganatourism.home4
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:37:9-39:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:39:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:38:13-34
+activity#com.androiduptodate.telanganatourism.home5
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:40:9-42:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:41:13-34
+activity#com.androiduptodate.telanganatourism.home6
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:43:9-45:58
+	android:parentActivityName
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:45:13-55
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:44:13-34
+activity#com.androiduptodate.telanganatourism.warangalhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:46:9-51
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:46:19-48
+activity#com.androiduptodate.telanganatourism.hyferabadhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:47:9-52
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:47:19-49
+activity#com.androiduptodate.telanganatourism.karimnagarhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:48:9-53
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:48:19-50
+activity#com.androiduptodate.telanganatourism.adilabad
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:49:9-46
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:49:19-43
+activity#com.androiduptodate.telanganatourism.khammam
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:50:9-45
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:50:19-42
+activity#com.androiduptodate.telanganatourism.mahbubnagar
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:51:9-49
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:51:19-46
+activity#com.androiduptodate.telanganatourism.medak
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:52:9-43
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:52:19-40
+activity#com.androiduptodate.telanganatourism.nalgonda
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:53:9-46
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:53:19-43
+activity#com.androiduptodate.telanganatourism.nizambad
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:54:9-46
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:54:19-43
+activity#com.androiduptodate.telanganatourism.hyderabadhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:55:9-52
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:55:19-49
+activity#com.androiduptodate.telanganatourism.adilabadhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:56:9-51
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:56:19-48
+activity#com.androiduptodate.telanganatourism.khammamhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:57:9-50
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:57:19-47
+activity#com.androiduptodate.telanganatourism.mahbubnagarhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:58:9-61:59
+	android:label
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:60:13-68
+	android:theme
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:59:13-45
+activity#com.androiduptodate.telanganatourism.medakhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:62:9-48
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:62:19-45
+activity#com.androiduptodate.telanganatourism.nalgondahotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:63:9-66:59
+	android:label
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:65:13-65
+	android:theme
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:66:13-56
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:64:13-42
+activity#com.androiduptodate.telanganatourism.nizambadhotel
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:67:9-70:59
+	android:label
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:69:13-65
+	android:theme
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:70:13-56
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:68:13-42
+activity#com.androiduptodate.telanganatourism.example_2item
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:71:9-51
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:71:19-48
+activity#com.androiduptodate.telanganatourism.formevent1
+ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:81:9-57
+	android:name
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml:81:19-45
+uses-sdk
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3f0373512cdab4d0040038c17f24d007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\3f0373512cdab4d0040038c17f24d007\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2590486ff4699d8fe4ff40542b871b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\2590486ff4699d8fe4ff40542b871b43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b9493112e053aee12aa796053890a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\8b9493112e053aee12aa796053890a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2a63f7ba294ada55c489f31a0fdd7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\2a63f7ba294ada55c489f31a0fdd7abb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\92f05810cd594bdb728a2c3e33509f0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\92f05810cd594bdb728a2c3e33509f0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4fe83ced452519e63da5e081348be5ea\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\4fe83ced452519e63da5e081348be5ea\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\725ae23e9976c9c077a3323e609b59de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\725ae23e9976c9c077a3323e609b59de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8eb57b9b0ee3db8b6639f0fddabc0df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\8eb57b9b0ee3db8b6639f0fddabc0df4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3044fd05c1694033b7b2aa625ec7ad22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\3044fd05c1694033b7b2aa625ec7ad22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c708bdaa1e8fdb18bdb93027481a210a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c708bdaa1e8fdb18bdb93027481a210a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5edcc5ba9adc31cc4f3196f1015f29cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\5edcc5ba9adc31cc4f3196f1015f29cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d82138bb01dca75cc8e8662ba6985964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d82138bb01dca75cc8e8662ba6985964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d341c05019014aab9eb6fcb74fcefd27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d341c05019014aab9eb6fcb74fcefd27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1136a182a0fa1e50d7b7f5cb2c38503d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\1136a182a0fa1e50d7b7f5cb2c38503d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\96aaddaf3b67f481c633714ef7453591\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\96aaddaf3b67f481c633714ef7453591\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6bade209cb1daa5a346966c626d2e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\e6bade209cb1daa5a346966c626d2e38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e613e8cef36bb2822f971fab4ac91d69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\e613e8cef36bb2822f971fab4ac91d69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\394fb723c6baf2bf85fbbb4e92e118b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\394fb723c6baf2bf85fbbb4e92e118b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e17ce3049d9d4f020e9af40711473f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\4e17ce3049d9d4f020e9af40711473f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2f1ac91a25ed92259b94b62362282674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\2f1ac91a25ed92259b94b62362282674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\000fd095b10045a9cdafcc4d153564dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\000fd095b10045a9cdafcc4d153564dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\25efbec9d327be0f04f2c1c365a21f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\25efbec9d327be0f04f2c1c365a21f19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b1888dddc46b07aca3f29a7b2b36c903\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d0f38d8309c5a77741fa682f40fdf9c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\d0f38d8309c5a77741fa682f40fdf9c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a2fe0bbdb6f9ea1e4e585b17c10002ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a2fe0bbdb6f9ea1e4e585b17c10002ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f58685a1f850fe41bb5c2a60025c7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07f58685a1f850fe41bb5c2a60025c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\43c3762317b800fcff0c58484f4a079f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\43c3762317b800fcff0c58484f4a079f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a7043fa1ef53534d3d18698950871114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a7043fa1ef53534d3d18698950871114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2025914d31bb14c196f7ca0688e368ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\2025914d31bb14c196f7ca0688e368ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd19b02cd690b0b5d8c195b719a3cde\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\fdd19b02cd690b0b5d8c195b719a3cde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bcbaadce8314bf7197635bb5eab93509\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bcbaadce8314bf7197635bb5eab93509\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5e7f32fdfab66f1b8f5ef7ecd7136a98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\5e7f32fdfab66f1b8f5ef7ecd7136a98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\10d23539eb83b952b3ae8c84d8d9ed8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\10d23539eb83b952b3ae8c84d8d9ed8c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f612befca75d3056a86f7e65f3a9263\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4f612befca75d3056a86f7e65f3a9263\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kishore kethineni\Downloads\TelanganaTourism\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\fca9e27e2e36618bd9fa04f67091f617\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\47d6b62f77b894e278c1426fe7e899cd\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\kishore kethineni\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\d529c2deee76073e8dd5119c0fbdb886\AndroidManifest.xml:24:13-58

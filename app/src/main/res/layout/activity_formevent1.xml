@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".formevent1"
+    android:orientation="vertical"
+    android:background="@drawable/eventcolour">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/form"/>
+
+
+
+    <EditText
+        android:id="@+id/dbeditText"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="77dp"
+        android:layout_marginTop="70dp"
+
+        android:hint="Name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/dbeditText2"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="77dp"
+        android:hint="Email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/dbeditText3"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="77dp"
+        android:hint="phone"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/dbeditText4"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="77dp"
+        android:hint="Address"
+        android:inputType="textPassword" />
+
+    <EditText
+        android:id="@+id/dbeditText5"
+        android:layout_width="213dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="77dp"
+        android:hint="ID"
+        android:inputType="textPersonName" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginBottom="10dp"
+        android:paddingTop="35dp">
+
+        <Button
+            android:id="@+id/dbbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="74dp"
+            android:layout_marginLeft="74dp"
+            android:layout_marginBottom="66dp"
+            android:text="Submit" />
+
+
+        <Button
+            android:id="@+id/dbbutton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="97dp"
+            android:layout_marginRight="97dp"
+            android:layout_marginBottom="68dp"
+            android:text="update" />
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>

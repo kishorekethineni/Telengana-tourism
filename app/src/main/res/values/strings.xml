@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Telangana Tourism</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="charminar">
+        The Charminar is a monument in Hyderabad, India. The structure was built in 1591 AD. It is the most famous building of Hyderabad and also one of the most famous buildings in India. It was built by Muhammad Quli Qutb Shahi to celebrate the end of a deadly plague
+    </string>
+    <string name="makkahmasjid">
+        Makkah Masjid or Mecca Masjid, is a congregational mosque in Hyderabad, India. It is one of the largest mosques in India with a capacity of 20,000. The mosque was built between the 16th and 17th centuries, and is a state-protected monument situated in the heart of the old city of Hyderabad, close to the historic landmarks of Charminar, Chowmahalla Palace and Laad Bazaar
+    </string>
+    <string name="nagarjunasagardam">
+        Nagarjuna Sagar Dam is one of the world\'s largest and tallest[2] Masonry dams built across the Krishna river at Nagarjuna Sagar which is in Nalgonda District, Telangana State, India. Constructed between 1955 and 1967, the dam created a water reservoir with gross storage capacity of 11.472 billion cubic metres (405.1×109 cu ft). The dam is 590 feet (180 m) tall from its deepest foundation and 0.99 miles (1.6 km) long with 26 flood gates which are 42 feet (13 m) wide and 45 feet (14 m) tall.[3]
+    </string>
+    <string name="ramappatemple">
+        Ramappa Temple also known as the Ramalingeswara temple, is located 77 km from Warangal, the ancient capital of the Kakatiya dynasty, 157 km from Hyderabad in the state of Telangana in southern India. It lies in a valley at Palampet village of Venkatapur Mandal, in erstwhile Mulug Taluq of Jayashankar Bhupalpally district, a tiny village long past its days of glory in the 13th and 14th centuries.[2] An inscription in the temple dates it to the year 1213 AD and says it was built by a General Recherla Rudra, during the period of the Kakatiya ruler Ganapati Deva
+    </string>
+    <string name="hussainsagar">
+        Hussain Sagar is a necklace shaped lake in Hyderabad built by Ibrahim Quli Qutb Shah, and named after Hussain Shah Wali. It is spread across an area of 5.7 square kilometers and is fed by River Musi. A large monolithic statue of the Gautama Buddha, erected in 1992, stands on Gibraltar Rock in the middle of the lake. It also separates Hyderabad from its twin city Secunderabad.[1] The maximum depth of the lake is 10 feet
+    </string>
+    <string name="warangalkakatiyafort">
+        Warangal Fort, in Warangal District, Telangana, India, appears to have existed since at least the 12th century when it was the capital of the Kakatiya dynasty. The fort has four ornamental gates, known as Kakatiya Kala Thoranam, that originally formed the entrances to a now ruined great Shiva temple. The Kakatiyan arch has been adopted and officially incorporated into the emblem of Telangana after the state bifurcation.[1] The Fort is included in the "tentative list" of UNESCO World Heritage Site. The Monument was submitted by the Permanent Delegation of India to UNESCO on 10/09/2010
+    </string>
+    <string name="title_activity_mahbubnagarhotel">mahbubnagarhotel</string>
+    <string name="title_activity_nalgondahotel">nalgondahotel</string>
+    <string name="title_activity_nizambadhotel">nizambadhotel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>
